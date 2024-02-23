@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Deivyson Ricardo",
+        "userName": "DeivHD",
+        "bio": "Olá! Sou Deivyson Ricardo, um jovem amador do minecraft LCE (Minecraft Legacy Edition). Tenho como objetivo, melhorar a experiência dos jogadores ao jogar nessa versão do minecraft, mostrando que mesmo sendo uma versão antiga e única do minecraft, não devemos deixa-las no esquecimento. Espero que goste das minhas DLCs. Obrigado!",
+        "redesSociais": [
+            {
+                "rede": "instagram",
+                "link": "https://www.instagram.com/deivs_05/"
+            },
+            {
+                "rede": "github",
+                "link": "https://www.github.com/DeivRicardoSS/"
+            },
+            {
+                "rede": "youtube",
+                "link": "https://www.youtube.com/channel/UCmC90wvdSBN0cZHbWHt_REg"
+            }
+        ],
+        "userImg": "https://avatars.githubusercontent.com/u/131066052?v=4"
+    }
+]
